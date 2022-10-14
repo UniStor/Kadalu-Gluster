@@ -9,5 +9,5 @@ repo:
 - https://github.com/kadalu/kadalu-cas
 - https://github.com/kadalu/moana
 
-## Architecture
+## Overview
 https://kadalu.github.io/blog/kadalu-storage-part-1/
