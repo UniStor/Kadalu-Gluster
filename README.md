@@ -1,10 +1,17 @@
 # Gluster-Kubernetes
 # kaDalu
-https://github.com/kadalu/kadalu
+home: https://kadalu.github.io/
+
+project: https://github.com/kadalu
+
+repo:
+- https://github.com/kadalu/kadalu
+- https://github.com/kadalu/kadalu-cas
+- https://github.com/kadalu/moana
 
 
-## Archived:
-inspired. from: https://github.com/gluster/gluster-kubernetes
+## old:
+project: https://github.com/gluster/gluster-kubernetes
 
 status: https://github.com/gluster/gluster-kubernetes/issues/644
 
