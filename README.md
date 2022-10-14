@@ -1,5 +1,6 @@
-# Gluster-Kubernetes
-# kaDalu
+Gluster in Kubernetes:
+
+# Kadalu
 home: https://kadalu.github.io/
 
 project: https://github.com/kadalu
@@ -11,3 +12,7 @@ repo:
 
 ## Overview
 https://kadalu.github.io/blog/kadalu-storage-part-1/
+
+
+## Blog
+https://kadalu.github.io/blog/
