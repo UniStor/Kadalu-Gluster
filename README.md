@@ -13,6 +13,8 @@ repo:
 ## Overview
 https://kadalu.github.io/blog/kadalu-storage-part-1/
 
+## Presentation
+- [Achieving High availability for Stateful Workloads on Kubernetes](https://youtu.be/oJQbQyetZag) 2021
 
 ## Blog
 https://kadalu.github.io/blog/
